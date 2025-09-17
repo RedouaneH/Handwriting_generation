@@ -1,0 +1,15 @@
+numpy>=1.19.5
+scipy>=1.0.0
+matplotlib>=2.1.0
+pandas>=0.22.0
+scikit-learn>=0.19.1
+pillow>=8.4.0
+cairocffi>=1.2.0
+cairosvg>=2.7.1
+svgwrite>=1.1.12
+wand>=0.6.13
+tensorflow==1.6.0
+
+
+
+
