@@ -1,8 +1,5 @@
 # Handwriting Synthesis ✍️
 
-
-# Handwriting Synthesis ✍️
-
 **⚠️ This project requires Python 3.6.13**  
 
 This project is a implementation that reuses the [Handwriting Synthesis repository by Sean Vasquez](https://github.com/sjvasquez/handwriting-synthesis).  
